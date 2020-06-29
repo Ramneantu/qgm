@@ -1,0 +1,2 @@
+# qgm
+Quantum Generative Model
